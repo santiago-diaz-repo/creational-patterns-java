@@ -1,0 +1,4 @@
+singleton/SingletonTest.java
+ singleton.SingletonTest
+factory/FactoryTest.java
+ factory.FactoryTest
