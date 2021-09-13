@@ -1,1 +1,1 @@
-# creational-patterns-java
+# design-patterns-java
